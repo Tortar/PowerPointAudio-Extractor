@@ -7,7 +7,7 @@ For each powerpoint in the same folder of the script , it extracts and joins aud
 Don't worry about when moving on with the slides: a cute bell sound will warn you ! 
 
 
-# procedure for Python users : Tecnical details 
+# Procedure for Python users : Tecnical details 
 
 Make sure to have installed zipfile and pydub modules on your computer.
 You can install them via commands prompt with :
