@@ -8,8 +8,8 @@ Don't worry about when moving on with the slides: a cute bell sound will warn yo
 
 # Simplified Procedure : Using exe_file folder
 
-You can also download exe_file folder with which you can run the program without needing python neither to be installed. Put the powerpoints on the same folder 
-and click on extractor.exe. That's it !
+You can use exe_file folder with which you can run the program without needing python neither to be installed. Put the powerpoints on the same folder 
+and click on the file extractor.exe. That's it !
 
 # Procedure for Python users : Tecnical details 
 
