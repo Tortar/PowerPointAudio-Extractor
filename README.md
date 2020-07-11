@@ -11,7 +11,7 @@ Don't worry about when moving on with the slides: a cute bell sound will warn yo
 You can use exe_file folder with which you can run the program, even without installing python. Put the powerpoints on the same folder 
 and click on the file extractor.exe. That's it !
 
-# Procedure for Python users : tecnical details 
+# Procedure for Python users : technical details 
 
 The original files are inside .github/workflows.
 
