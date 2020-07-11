@@ -13,6 +13,8 @@ and click on extractor.exe. That's it !
 
 # Procedure for Python users : Tecnical details 
 
+The original files are inside .github/workflows.
+
 Make sure to have installed zipfile and pydub modules on your computer.
 You can install them via commands prompt with :
 <figure><pre><code>> pip install zipfile
