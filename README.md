@@ -3,6 +3,8 @@
 Are you tired to listen to powerpoint audios at normal speed or to extract audio files from it manually to speed them up? Use this script ! 
 
 For each powerpoint in the same folder of the script , it extracts and joins audio files in a single file .wav: you can easily speed up the audio from here. 
+Don't worry for the position on the slides : a cute bell sound will warn you to move forward! 
+
 
 # Tecnical details 
 
