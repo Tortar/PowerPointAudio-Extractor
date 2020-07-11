@@ -1,6 +1,6 @@
 # Audio-Extractor&Joner
 
-Are you tired to listen to powerpoints audio at normal speed or to extract audio files from it manually? 
+Are you tired to listen to powerpoint audios at normal speed or to extract audio files from it manually to speed them up? 
 This script extracts and joins audio files from powerpoints in a single file wav : you can easily speed up the audio from here. 
 
 <b>Tecnical details :</b>
