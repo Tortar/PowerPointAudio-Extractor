@@ -5,7 +5,7 @@ print('Extracting...')
 parts = 1
 audio_extensions = ('.aiff', '.au', '.mid', '.midi', '.mp3', '.m4a', '.mp4', '.wav', '.wma')
 init_dir = os.getcwd() ; init_files = os.listdir()
-break_slide = init_dir + '\\' + 'new_slide.wav'
+break_slide = init_dir + '\\' + 'new_slide.wav' #  new_slide.wav (bell sound) is used as a separator from one slide to the other
 number_power = len(init_files) - 2
 
 for power in init_files :
