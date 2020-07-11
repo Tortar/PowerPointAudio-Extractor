@@ -10,10 +10,7 @@ The file new_slide.wav (bell sound) is used as a separator from one slide to the
 
 Make sure to have installed pydub, shutil and zipfile modules on your computer.
 You can install them via commands prompt with :
--pip install name_module
-
 <figure>
-  <figcaption>Your code title</figcaption>
   <pre>
     <code>
 - pip install name_module
