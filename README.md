@@ -11,5 +11,5 @@ Make sure to have installed pydub, shutil and zipfile modules on your computer.
 You can install them via commands prompt with :
 <figure><pre><code> - pip install name_module </code></pre></figure>
 
-You need to install also [ffmpeg software](https://ffmpeg.org/download.html) 
+You need to install also [ffmpeg software](https://ffmpeg.org/download.html) and add the <figure><pre><code>\bin</code></pre></figure> folder to the windows environment variables under the python path.
 
