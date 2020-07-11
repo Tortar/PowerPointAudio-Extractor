@@ -6,7 +6,7 @@ For each powerpoint in the same folder of the script , it extracts and joins aud
 
 <b>Tecnical details </b>
 
-Make sure to have installed pydub, shutil and zipfile modules on your computer.
+Make sure to have installed zipfile and pydub modules on your computer.
 You can install them via commands prompt with :
 <figure><pre><code> - pip install name_module </code></pre></figure>
 
