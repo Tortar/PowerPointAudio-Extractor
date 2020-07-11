@@ -16,7 +16,7 @@ You can install them via commands prompt with :
   <figcaption>Your code title</figcaption>
   <pre>
     <code>
-      jnd
+- pip install name_module
     </code>
   </pre>
 </figure>
