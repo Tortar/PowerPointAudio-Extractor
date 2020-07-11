@@ -17,7 +17,7 @@ You can install them via commands prompt with :
 
 You need also to download [ffmpeg software](https://ffmpeg.org/download.html) and add the absolute path of the <code>bin</code> folder to the windows environment variables ; you have to modify the python path variable adding the absolute path.
 
-# Simplified Procedure : Using file .exe
+# Simplified Procedure : Using exe_file folder
 
-You can also download the folder exe_file with which you can run the program without needing python neither to be installed. Put the powerpoints on the same folder 
-and click on the .exe file . That's it !
+You can also download exe_file folder with which you can run the program without needing python neither to be installed. Put the powerpoints on the same folder 
+and click on extractor.exe. That's it !
