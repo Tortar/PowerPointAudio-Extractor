@@ -15,5 +15,5 @@ You can install them via commands prompt with :
 > pip install pydub
 </code></pre></figure>
 
-You need also to download [ffmpeg software](https://ffmpeg.org/download.html) and add the absolute path of the <code>\bin</code> folder to the windows environment variables ; you have to modify the python path variable adding the absolute path.
+You need also to download [ffmpeg software](https://ffmpeg.org/download.html) and add the absolute path of the <code>bin</code> folder to the windows environment variables ; you have to modify the python path variable adding the absolute path.
 
