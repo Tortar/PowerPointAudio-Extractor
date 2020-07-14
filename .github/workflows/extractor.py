@@ -5,8 +5,9 @@ print('Extracting...')
 parts = 1
 audio_extensions = ('.aiff', '.au', '.mid', '.midi', '.mp3', '.m4a', '.mp4', '.wav', '.wma')
 init_dir = os.getcwd() ; init_files = os.listdir()
-break_slide = init_dir + '\\' + 'new_slide.wav' #  new_slide.wav (bell sound) is used as a separator from one slide to the other
+break_slide = init_dir + '\\' + 'new_slide.wav'
 number_power = len(init_files) - 2
+os.mkdir('wav_files')
 
 for power in init_files :
 
@@ -32,7 +33,7 @@ for power in init_files :
     combined_sounds = sum((AudioSegment.from_file(audio) + repeated for audio in sort_audios), AudioSegment.empty())
 
     name_file = "{}.wav".format(base) ; combined_sounds.export(name_file, format="wav")
-    os.rename(os.getcwd() + '\\' + name_file , init_dir + '\\' + name_file)
+    os.rename(os.getcwd() + '\\' + name_file , init_dir + '\\wav_files\\' + name_file)
     
     os.chdir(init_dir); shutil.rmtree('ppt', ignore_errors=True)
 
