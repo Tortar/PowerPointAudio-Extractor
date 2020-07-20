@@ -11,10 +11,15 @@ Don't worry about when moving on with the slides: a cute bell sound will warn yo
 Thanks to the .exe file inside exe_extractor folder, you can run the program even without installing python-
 
 Steps :
-download the script clicking on the 'code' button
-create a new empty folder and extract the .zip file there
-put the powerpoints inside the exe_extractor folder 
-click on the file extractor.exe
+
+1) Download the script clicking on the 'code' button
+
+2) Create a new empty folder and extract the .zip file there
+
+3) Put the powerpoints inside the exe_extractor folder 
+
+4) Click on the file extractor.exe
+
 That's it ! 
 
 # Procedure for Python users : technical details 
