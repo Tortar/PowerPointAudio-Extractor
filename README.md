@@ -18,9 +18,11 @@ Setting's steps :
 
 3) Put the powerpoints inside the exe_extractor folder;
 
-4) Click on the file extractor.exe
+4) Click on the file extractor.exe 
 
 That's it ! 
+
+- Antivirus could warn you when clicking on the .exe, just quiet it :D. (if you don't trust me check the file first)
 
 # Procedure for Python users : technical details 
 
