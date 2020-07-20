@@ -8,7 +8,7 @@ Don't worry about when moving on with the slides: a cute bell sound will warn yo
 
 # Simplified Procedure : using exe_extractor folder
 
-Thanks to the .exe file inside exe_extractor folder, you can run the program even without installing python.
+Thanks to the .exe file inside the exe_extractor folder, you can run the program even without installing python.
 
 Setting's steps :
 
