@@ -8,7 +8,7 @@ Don't worry about when moving on with the slides: a cute bell sound will warn yo
 
 # Simplified Procedure : using exe_extractor folder
 
-You can use exe_extractor folder with which you can run the program, even without installing python : download the script clicking on the 'code' button, extract the .zip file on your computer, put the powerpoints on the same folder where you extracted the .zip and click on the file extractor.exe. That's it !
+You can use exe_extractor folder with which you can run the program, even without installing python : download the script clicking on the 'code' button, create a new empty folder and extract the .zip file there, put the powerpoints on the same folder and click on the file extractor.exe. That's it ! 
 
 # Procedure for Python users : technical details 
 
