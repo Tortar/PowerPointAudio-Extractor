@@ -6,13 +6,13 @@ For each powerpoint in the same folder of the script , it extracts and joins aud
 
 Don't worry about when moving on with the slides: a cute bell sound will warn you ! 
 
-# Simplified Procedure : using exe_file folder
+# Simplified Procedure : using exe_extractor folder
 
-You can use exe_file folder with which you can run the program, even without installing python : download the script clicking on the 'code' button, extract the .zip file on your computer, put the powerpoints on the same folder where you extracted the .zip and click on the file extractor.exe. That's it !
+You can use exe_extractor folder with which you can run the program, even without installing python : download the script clicking on the 'code' button, extract the .zip file on your computer, put the powerpoints on the same folder where you extracted the .zip and click on the file extractor.exe. That's it !
 
 # Procedure for Python users : technical details 
 
-The original files are inside .github/workflows.
+The original files are inside py_extractor folder.
 
 Make sure you have installed zipfile and pydub modules on your computer.
 You can install them via command prompt with :
