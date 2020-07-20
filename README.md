@@ -22,7 +22,7 @@ Setting's steps :
 
 That's it ! 
 
-- Antivirus could warn you when clicking on the .exe, just quiet it :D : if you don't trust me, check the file first with the antivirus.
+- Antivirus could warn you after clicking on the .exe, just quiet it :D : if you don't trust me, check the file first with the antivirus.
 
 # Procedure for Python users : technical details 
 
