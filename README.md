@@ -6,8 +6,6 @@ For each powerpoint in the same folder of the script , it extracts and joins aud
 
 Don't worry about when moving on with the slides: a cute bell sound will warn you ! 
 
-Here are two different procedures you can follow to be able to run the program :
-
 # Simplified Procedure : using exe_extractor folder
 
 Thanks to the .exe file inside the exe_extractor folder, you can run the program even without installing python.
