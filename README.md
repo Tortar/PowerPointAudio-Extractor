@@ -42,3 +42,6 @@ You can install them via command prompt with :
 </code></pre></figure>
 
 You need also to download [ffmpeg software](https://ffmpeg.org/download.html) and add the absolute path of the <code>bin</code> folder to the windows environment variables ; you have to modify the python path variable adding the absolute path.
+
+
+The script is tested on windows so probably on any other operative system will give some error (open a issue in this case).
