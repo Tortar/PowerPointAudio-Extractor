@@ -25,7 +25,7 @@ Your folder should be like this (but with many .pptx you want) :
 
 <img src="https://user-images.githubusercontent.com/68152031/91667558-db031e80-eb05-11ea-84e9-1420556f6a09.PNG" alt="alternatetext">
 
-As you see extensions have to be visible, follow this [guide](https://support.winzip.com/hc/en-us/articles/115011457948-How-to-configure-Windows-to-show-file-extensions-and-hidden-files) to abilitate them.
+As you see extensions have to be visible, follow this [guide](https://support.winzip.com/hc/en-us/articles/115011457948-How-to-configure-Windows-to-show-file-extensions-and-hidden-files) to enable them.
 
 That's it ! 
 
