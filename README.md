@@ -22,7 +22,7 @@ Setting's steps :
 
 That's it ! 
 
-Your folder should look like something like this : 
+Your folder should be like this (but with many .pptx you want) : 
 
 <img src="https://user-images.githubusercontent.com/68152031/91667558-db031e80-eb05-11ea-84e9-1420556f6a09.PNG" alt="alternatetext">
 
