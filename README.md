@@ -6,7 +6,7 @@ For each powerpoint in the same folder of the script , it extracts and joins aud
 
 Don't worry about moving on with the slides: a cute bell sound will warn you ! (you can change the new_slide.wav sound if you don't like it, you just have to mantain the same name for the new file)
 
-Warning : the script is tested on windows so probably on any other operating system will give some error (open a issue in this case).
+Warning : the script is tested on windows so probably on any other operating system will give some error (open a issue in this case).Besides it's tested using .pptx files so if your presentation is in another format convert it in .pptx first (there are many ways to do it, go check online!)
 
 # Simplified Procedure : using exe_extractor folder
 
