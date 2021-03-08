@@ -15,6 +15,6 @@ You can install it via command prompt with :
 
 You need also to download [ffmpeg software](https://ffmpeg.org/download.html) for your operating system .
 
-If you have Windows, you have to add the absolute path of the <code>bin</code> folder to the Windows environment variables : you have to modify the variable where the python path is located adding the absolute path of ffmpeg.
+If you have Windows, you need to add the absolute path of the <code>bin</code> folder to the Windows environment variables : you have to modify the variable where the python path is located adding the absolute path of ffmpeg.
 
 Then you need to put your powerpoints(.pptx) inside the py_extractor folder. That's it!
