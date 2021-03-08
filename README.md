@@ -13,6 +13,8 @@ You can install it via command prompt with :
 <figure><pre><code>> pip install pydub
 </code></pre></figure>
 
-You need also to download [ffmpeg software](https://ffmpeg.org/download.html) for your operating system and add the absolute path of the <code>bin</code> folder to the windows environment variables : you have to modify the variable where the python path is located adding the absolute path of ffmpeg.
+You need also to download [ffmpeg software](https://ffmpeg.org/download.html) for your operating system .
+
+If you have Windows, you have to add the absolute path of the <code>bin</code> folder to the Windows environment variables : you have to modify the variable where the python path is located adding the absolute path of ffmpeg.
 
 Then you need to put your powerpoints(.pptx) inside the py_extractor folder. That's it!
