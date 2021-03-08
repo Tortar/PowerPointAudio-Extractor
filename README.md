@@ -8,7 +8,9 @@ Don't worry about moving on with the slides: a cute bell sound will warn you ! (
 
 Warning : the script is tested on windows so probably on any other operating system will give some error (open a issue in this case).Besides it's tested using .pptx files so if your presentation is in another format convert it in .pptx first (there are many ways to do it, go check online!).
 
-# Simplified Procedure (not always working unfortunately) : using exe_extractor folder
+# Simplified Procedure : using exe_extractor folder
+
+This does not always work, if it the case look at the Full procedure section.
 
 Thanks to the .exe file inside the exe_extractor folder, you can run the program even without installing python.
 
@@ -33,7 +35,7 @@ That's it !
 
 - Antivirus could warn you after clicking on the .exe, just quiet it :D : if you don't trust me, check the file first with the antivirus.
 
-# Procedure for Python users : technical details 
+# Full procedure
 
 The original files are inside py_extractor folder.
 
