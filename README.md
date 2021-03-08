@@ -37,9 +37,9 @@ That's it !
 
 The original files are inside py_extractor folder.
 
-Make sure you have installed zipfile and pydub modules on your computer.
+Make sure you have installed pydub module on your computer.
 You can install them via command prompt with :
-<figure><pre><code>> pip install zipfile
+<figure><pre><code>
 > pip install pydub
 </code></pre></figure>
 
