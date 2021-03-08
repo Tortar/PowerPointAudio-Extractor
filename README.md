@@ -39,8 +39,7 @@ The original files are inside py_extractor folder.
 
 Make sure you have installed pydub module on your computer.
 You can install them via command prompt with :
-<figure><pre><code>
-> pip install pydub
+<figure><pre><code>> pip install pydub
 </code></pre></figure>
 
 You need also to download [ffmpeg software](https://ffmpeg.org/download.html) and add the absolute path of the <code>bin</code> folder to the windows environment variables ; you have to modify the python path variable adding the absolute path.
