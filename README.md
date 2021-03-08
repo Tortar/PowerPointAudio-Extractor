@@ -18,9 +18,7 @@ Setting's steps :
 
 1) Download the script clicking on the 'code' button;
 
-2) Create a new empty folder and extract the .zip file there;
-
-3) Put the powerpoints inside the exe_extractor folder;
+3) Put the powerpoints inside the extractor folder;
 
 4) Click on the file extractor.exe 
 
