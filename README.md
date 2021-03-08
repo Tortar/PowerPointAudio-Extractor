@@ -17,4 +17,4 @@ You need also to download [ffmpeg software](https://ffmpeg.org/download.html) fo
 
 If you have Windows, you need to add the absolute path of the <code>bin</code> folder to the Windows environment variables : you have to modify the variable where the python path is located adding the absolute path of ffmpeg. For other operating systems the procedure is similar.
 
-Then you need to put your powerpoints(.pptx) inside the py_extractor folder. That's it!
+Lastly, you need to put your powerpoints(.pptx) inside the py_extractor folder. That's it!
