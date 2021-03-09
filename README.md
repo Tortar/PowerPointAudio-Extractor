@@ -23,5 +23,6 @@ Lastly, you need to put your powerpoints(.pptx) inside the py_extractor folder. 
 # Recover corrupted powerpoints presentation
 
 In the case you have corrupted audio file in your presentation (the audios could work when clicking on the .pptx, but the file are considered corrupted in .zip mode) it will not be possible to use the script. To recover the audio files follow this guide :
+
 ![corrupted](https://user-images.githubusercontent.com/68152031/110470930-c1a5e500-80db-11eb-9de8-4e6151a7ec21.PNG)
 
