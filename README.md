@@ -8,7 +8,7 @@ Don't worry about moving on with the slides: a cute bell sound will warn you ! (
 
 # Setup 
 
-First, if you don't have it, install python3 (remember to check the 'add python PATH' tick box during the installation). 
+First, if you don't have it, install python3 (remember to check the 'add python to PATH' tick box during the installation). 
 
 Make sure you have installed pydub module on your computer.
 You can install it via command prompt with :
