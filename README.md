@@ -8,6 +8,8 @@ Don't worry about moving on with the slides: a cute bell sound will warn you ! (
 
 # Setup 
 
+First, if you don't have them, install python3 (remember to check the 'add python PATH' tick box during the installation) and pip on your pc, you can follow [this guide](https://phoenixnap.com/kb/install-pip-windows) if you want.
+
 Make sure you have installed pydub module on your computer.
 You can install it via command prompt with :
 <figure><pre><code>> pip install pydub
