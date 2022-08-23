@@ -4,7 +4,6 @@ from pydub import AudioSegment
 print('Extracting...')
 audio_extensions = ('.aiff', '.au', '.mid', '.midi', '.mp3', '.m4a', '.mp4', '.wav', '.wma')
 init_dir = os.getcwd() ; init_files = os.listdir()
-print(init_files)
 break_slide = init_dir + '\\' + 'new_slide.wav'
 os.mkdir('wav_files')
 
