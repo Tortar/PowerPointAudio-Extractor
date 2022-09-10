@@ -10,14 +10,7 @@ Don't worry about moving on with the slides: a cute bell sound will warn you ! (
 
 First, if you don't have it, [download](https://www.python.org/downloads/) and install python3 (remember to check the 'add python to PATH' tick box during the installation). 
 
-Make sure you have installed pydub module on your computer.
-You can install it via command prompt with :
-<figure><pre><code>> pip install pydub
-</code></pre></figure>
-
-You need also to download [ffmpeg software](https://ffmpeg.org/download.html) for your operating system .
-
-If you have Windows, you need to add the absolute path of the <code>bin</code> folder of ffmpeg to the Windows environment variables : you have to modify the variable where the python path is located adding the absolute path of ffmpeg <code>bin</code> folder. For other operating systems the procedure is similar.
+Make sure to follow the steps to install [<code>pydub</code>](https://github.com/jiaaro/pydub#getting-ffmpeg-set-up) for your operating system.
 
 Lastly, you need to put your powerpoints(.pptx) inside the py_extractor folder. That's it!
 
